@@ -2,22 +2,29 @@
 <h3 align="center">A CS Undergrad Student from Monash University Malaysia</h3>
 
 <div align="center">
-  <p>Welcome to my GitHub profile! I'm passionate about leveraging technology to solve real-world problems. Currently, I'm focusing on expanding my knowledge in full-stack development, system administration, and exploring the endless possibilities within the open-source community.</p>
+  <p>Welcome to my GitHub profile! I'm passionate about leveraging technology to solve real-world problems and currently expanding my knowledge in full-stack development.</p>
+  <p>I'm also actively working on algorithm notes and learning Vue.js. This year, I aim to broaden my expertise in mobile development and databases.</p>
+  <p>I am also thinking about developing a framwork for my own blog, while make a vue3 project for algorithm visualisation this year.</p>
+</div>
+
+<br/>
+
+<div align="left">
+  <h3>💡 Interests & Background</h3>
+  <ul>
+    <li><b>Math Enthusiast:</b> I have a deep love for pure mathematics and believe it can significantly enhance the theoretical aspects of computer science.</li>
+    <li><b>Linguistics Amateur:</b> I'm eager to delve into theoretical linguistics and explore its intersection with mathematics and computer science.</li>
+    <li><b>LLM Fan:</b> I'm fascinated by Large Language Models and aspire to contribute to explainable AI. I'm also drawn to theoretical computation and theorem proving, seeking to explore symbolic AI approaches.</li>
+  </ul>
 </div>
 
 <br/>
 
 <div align="center">
   <a href="https://github.com/Eryc123Y">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eryc123Y&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" alt="Eryc123Y's GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eryc123Y&layout=compact&langs_count=8&theme=dracula" alt="Eryc123Y's Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eryc123Y&show_icons=true&include_all_commits=true&count_private=true&theme=light" alt="Eryc123Y's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eryc123Y&layout=compact&langs_count=8&theme=light" alt="Eryc123Y's Top Languages" />
   </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Animated Divider" width="80%"/>
 </div>
 
 <br/>
@@ -58,12 +65,6 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
   </p>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Animated Divider" width="80%"/>
 </div>
 
 <br/>
