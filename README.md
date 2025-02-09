@@ -81,8 +81,4 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Eryc123Y/Eryc123Y/output/snake.svg" alt="Snake animation" />
-
-###
